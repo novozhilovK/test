@@ -1,4 +1,8 @@
-li {
-    list-style: none;
-    color: yellow;
-;
+.text {
+    display: block;
+    padding: 20px 5px 40px 5px;
+    background: rgba(255, 183, 68, 0.86);
+}
+.link-google {
+    text-decoration: none;
+}
