@@ -6,3 +6,12 @@
 .link-google {
     text-decoration: none;
 }
+.avatar  {
+    float: left;
+    height: 150px;
+    wigth: 150px;
+}
+.info  {
+    display:blok;
+    text-align:right;
+}
